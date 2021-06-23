@@ -1,5 +1,5 @@
 export default {
-  port: 1337,
+  port: 8081,
   host: "localhost",
   dbUri: "mongodb://localhost:27017/rest-api",
   saltWorkFactor: 10,
